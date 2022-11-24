@@ -1,0 +1,27 @@
+{
+  "name": "tabuada",
+  "version": "1.0.0",
+  "description": "-Tabuada de um numero n feito em Ts ultilizando laço de repetição e função. O mesmo é destinado ao escritorio de engenharia",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiagottf/Tabuada.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiagottf/Tabuada/issues"
+  },
+  "homepage": "https://github.com/Thiagottf/Tabuada#readme",
+  "dependencies": {
+    "typescript": "^4.9.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
+  }
+}
